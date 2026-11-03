@@ -4,7 +4,7 @@ Descend beneath a tower built as a refuge, then return with the powers to challe
 
 **Game, gameplay, level and narrative design & programming by Yibo Wang (王奕博).** Personal project · Unity 6 · Windows · In development.
 
-[![Read the selected design portfolio: 7 pages of gameplay, level and systems design](media/selected-portfolio.svg)](portfolio/Selected.pdf?raw=true)
+[![Read the selected design portfolio: 7 pages of gameplay, level and systems design](media/selected-portfolio-nav.svg)](portfolio/Selected.pdf?raw=true)
 
 **[Play free on itch.io](https://hajimi9914.itch.io/babel)** · **[Watch the gameplay & design film · 3m 15s](https://youtu.be/SPEH-DODZ7I)** · **[Follow the design into the source](docs/Code.md)**
 
