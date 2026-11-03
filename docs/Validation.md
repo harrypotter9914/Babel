@@ -28,6 +28,6 @@ The selected PDF has seven pages; the complete PDF has twelve. Both preserve the
 
 The free v0.57 campaign ZIP was uploaded on 2 November 2026. A fresh unauthenticated HTTP request verified the updated description, installation instructions, trailer and sole public package `babel-0.57.0-windows-x64.zip`; previous uploads are hidden rather than deleted. The submitted archive is 282,193,709 bytes, passed its ZIP integrity check, and contains the freshly tested campaign executable. Its SHA-256 is `2a1019f49ad5893b2438da4e9b184e06fe73378d63ddb0f7616d5d2fea16fa49`.
 
-Remote re-download verification remains incomplete: the website acknowledged download initiation in Chrome and Edge, but the browser automation received neither a download event nor a completed local file. No remote hash match or run of a re-downloaded package is claimed.
+The published ZIP was downloaded through the public page. Its full-file SHA-256 matches the submitted archive, and its ZIP integrity check passed. The extracted campaign executable also passed a fresh runtime smoke check with isolated save storage. Browser download notifications were delayed; verification used the completed file on disk.
 
 Further observation is needed for first-time gate recognition, resource pressure on long returns, rune choice frequency and guardian recovery-window readability. No formal study, completion rate or new end-to-end campaign playthrough is claimed.
