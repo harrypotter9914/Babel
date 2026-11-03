@@ -24,6 +24,10 @@ These are deterministic mechanical examples with nearby enemies inactive. They d
 
 ## Versions and open questions
 
-The selected PDF has seven pages; the complete PDF has twelve. Both preserve the final v0.56 design edition, with the current public film link. The existing itch.io download is v0.56. Current source and new captures are v0.57; its camera revision is described separately rather than silently relabelling an older PDF or build.
+The selected PDF has seven pages; the complete PDF has twelve. Both preserve the final v0.56 design edition, with the current public film link. The public itch.io Windows download, current source and new captures are v0.57; its camera revision is described separately rather than silently relabelling an older PDF.
+
+The free v0.57 campaign ZIP was uploaded on 2 November 2026. A fresh unauthenticated HTTP request verified the updated description, installation instructions, trailer and sole public package `babel-0.57.0-windows-x64.zip`; previous uploads are hidden rather than deleted. The submitted archive is 282,193,709 bytes, passed its ZIP integrity check, and contains the freshly tested campaign executable. Its SHA-256 is `2a1019f49ad5893b2438da4e9b184e06fe73378d63ddb0f7616d5d2fea16fa49`.
+
+Remote re-download verification remains incomplete: the website acknowledged download initiation in Chrome and Edge, but the browser automation received neither a download event nor a completed local file. No remote hash match or run of a re-downloaded package is claimed.
 
 Further observation is needed for first-time gate recognition, resource pressure on long returns, rune choice frequency and guardian recovery-window readability. No formal study, completion rate or new end-to-end campaign playthrough is claimed.

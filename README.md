@@ -59,6 +59,6 @@ The important gate is not simply a locked wall. A premature floor opening can st
 | [Browse the active Unity source](Unity/Assets/Scripts) | Gameplay code in its original project directories, with shared definitions and guardian profiles. |
 | [Build and validation guide](docs/Building.md) | Unity version, Git LFS, campaign/practice isolation, and the scope of verification. |
 
-**Version note:** the source and newly captured examples are v0.57. The existing public itch.io download and final portfolio describe v0.56; v0.57 adds the camera framing revision. Both Windows players were rebuilt and smoke-tested before this page was published. These checks do not claim a new full campaign playthrough or a formal player study. [Verification details](docs/Validation.md).
+**Version note:** the source, newly captured examples and public Windows download are v0.57. The final portfolios preserve the v0.56 design edition; v0.57 adds the camera framing revision. Both Windows players were rebuilt and smoke-tested before publication. These checks do not claim a new full campaign playthrough or a formal player study. [Verification details](docs/Validation.md).
 
 Selected game and cover artwork is AI-assisted; dialogue uses synthetic voices. The film uses an authorized clone of my own voice. Capture setup, resource credits and reuse limitations are recorded in [Credits & media provenance](docs/Credits.md). No blanket license to reuse inherited third-party assets is implied.

@@ -6,7 +6,7 @@
 
 This is the complete final portfolio in its original page order. Each page below is a readable image of the corresponding PDF page; select an image to open the full-resolution version. The PDF preserves its embedded fonts and clickable video and playable-build links.
 
-The portfolio documents the v0.56 design pass. Current source and new homepage demonstrations are v0.57; the later camera change is explained in the [release notes](../docs/Release-0.57.md). No page has been silently relabelled as a newer build.
+The portfolio documents the v0.56 design pass. Current source, the public Windows download and new homepage demonstrations are v0.57; the later camera change is explained in the [release notes](../docs/Release-0.57.md). No portfolio page has been silently relabelled as a newer build.
 
 ## Jump by theme
 
