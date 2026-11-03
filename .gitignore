@@ -31,6 +31,14 @@ reference/*.zip
 !/docs/Art-0.53.json
 !/docs/Art-0.55.json
 !/docs/Release-0.55.md
+!/docs/Release-0.56.md
+!/docs/Release-0.57.md
+!/docs/Building.md
+!/docs/Code.md
+!/docs/Design.md
+!/docs/Credits.md
+!/docs/Validation.md
+/output/
 Unity/Assets/_Recovery/
 Unity/Assets/_Recovery.meta
 Unity/.vs/
