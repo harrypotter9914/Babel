@@ -4,7 +4,9 @@
 
 ## Source first
 
-On 2 November 2026, `main` was fast-forwarded from `bbff197` to the existing v0.57 commit [`8e65618`](https://github.com/harrypotter9914/game/commit/8e656185ec6c473ea309d0418762acb49f1673f3) before this presentation was changed. History was preserved; no force push was used.
+On 2 November 2026, `main` was fast-forwarded from `bbff197` to the existing v0.57 commit [`8e65618`](https://github.com/harrypotter9914/Babel/commit/8e656185ec6c473ea309d0418762acb49f1673f3) before this presentation was changed. History was preserved; no force push was used.
+
+On 4 November 2026, the existing repository was renamed from `game` to `Babel`. Its repository ID, default branch and existing commit history were preserved. The local remote and source-cloning instructions use the new canonical address.
 
 The Unity source had no outstanding tracked gameplay edits. Local LFS integrity checks passed. Historical TypeScript source remains at the root. Installed `node_modules` dependencies are removed from the current tracked tree, without deleting the local installation or rewriting history.
 

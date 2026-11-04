@@ -1,7 +1,7 @@
 # Babel working agreements
 
 - Active project: `Unity/`, Unity 6000.5.9f1. The root TypeScript game is historical source; preserve it unless explicitly asked to change it.
-- User authorizes syncing requested, verified project updates to their existing `harrypotter9914/game` GitHub repository as part of delivery. Use normal commits and pushes; never force-push or overwrite unrelated changes. Do not schedule background updates.
+- User authorizes syncing requested, verified project updates to their existing `harrypotter9914/Babel` GitHub repository as part of delivery. Use normal commits and pushes; never force-push or overwrite unrelated changes. Do not schedule background updates.
 - Ship two Windows executables from ONE source tree using `BablePlayerBuilds.Both`: campaign (`Builds/bable`) and standalone practice (`Builds/bable-practice`). Keep all gameplay code, definitions, prefabs, animations and Boss profiles shared. Do not create a copied practice project.
 - Campaign has no practice entry points or test scenes. Practice has no campaign entry point, story progression or campaign save access. Keep their storage identities separate.
 - For every update, build both players and run `tools/Test-Players.ps1` plus targeted checks for changed behavior. Always isolate automated saves with `-bableSaveRoot`; never overwrite the player's real save.

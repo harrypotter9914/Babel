@@ -10,8 +10,8 @@ Install **Git LFS** and **Unity 6000.5.9f1** with Windows Build Support, then:
 
 ```sh
 git lfs install
-git clone https://github.com/harrypotter9914/game.git
-cd game
+git clone https://github.com/harrypotter9914/Babel.git
+cd Babel
 git lfs pull
 ```
 
